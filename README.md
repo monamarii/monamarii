@@ -1,6 +1,6 @@
 
 ## About Me
-<img src="http://geocities.com/laurie_benz1/hr-imgs/animated/ani-line_Dragonfly-slwr.gif"/>
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Animated decoration" />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=monamarii.visitor-badge&left_text=visitors&left_color=%23bf9522&right_color=%23dcbdf4)
 
