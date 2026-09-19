@@ -2,6 +2,8 @@
 ## About Me
 <img src="https://web.archive.org/web/20090830123900im_/http://geocities.com/RodeoDrive/9567/btrfly_1.gif" alt="Animated decoration" />
 
+Hi i'm a software development student interested also in nature, photography, art, design and music so much of my creations will be either influenced by or in collaboration with my other interests
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=monamarii.visitor-badge&left_text=visitors&left_color=%23bf9522&right_color=%23dcbdf4)
 
 ## Tools
