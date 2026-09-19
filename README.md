@@ -1,8 +1,33 @@
 
-## About Me
-<img src="https://web.archive.org/web/20090830123900im_/http://geocities.com/RodeoDrive/9567/btrfly_1.gif" alt="Animated decoration" />
+<div align="center">
 
-Hi i'm a software development student interested also in nature, photography, art, design and music so much of my creations will be either influenced by or in collaboration with my other interests
+# monamarii
+
+### software, nature, photography, art, design and music
+
+<img src="https://web.archive.org/web/20090830123900im_/http://geocities.com/RodeoDrive/9567/btrfly_1.gif" alt="Animated butterfly" />
+
+</div>
+
+I am a software development student making small, curious things influenced by the natural world and the arts. I like projects that leave room for experimentation, atmosphere and play.
+
+## Currently
+
+| Making | Learning | Inspired by |
+| --- | --- | --- |
+| Small software projects and creative experiments | Godot and interactive design | Nature, photography, music and handmade details |
+
+## Explore
+
+| Area | What you will find |
+| --- | --- |
+| Code | Experiments, tools and software projects |
+| Games | Interactive ideas and Godot projects |
+| Visual work | Photography, design and image-making |
+
+<p align="center">
+	<a href="https://github.com/monamarii?tab=repositories"><strong>Browse my repositories</strong></a>
+</p>
 
 <a href="https://tamanotchi.world/38484c"><img src="https://tamanotchi.world/i2/38484" alt="It's tamaNOTchi! Click to feed!"></a>
 
