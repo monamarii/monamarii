@@ -1,9 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="150" viewBox="0 0 760 150" role="img" aria-labelledby="title desc">
   <title id="title">monamarii</title>
   <desc id="desc">Software, nature, photography, art, design and music</desc>
-  <path d="M34 112C170 130 270 94 382 112s213 18 344-2" fill="none" stroke="#b7e4d2" stroke-width="8" stroke-linecap="round"/>
-  <circle cx="62" cy="42" r="12" fill="#f6c3dc"/>
-  <circle cx="700" cy="76" r="8" fill="#f7df9e"/>
-  <text x="380" y="72" text-anchor="middle" font-family="Bradley Hand, Segoe Print, Chalkboard SE, cursive" font-size="58" font-weight="600" fill="#d875a9">monamarii</text>
-  <text x="380" y="132" text-anchor="middle" font-family="Bradley Hand, Segoe Print, Chalkboard SE, cursive" font-size="21" fill="#5d806f">software, nature, photography, art, design and music</text>
+  <text x="380" y="72" text-anchor="middle" font-family="Monocraft, monospace" font-size="58" font-weight="600" fill="#d875a9">monamarii</text>
+  <text x="380" y="132" text-anchor="middle" font-family="Monocraft, monospace" font-size="21" fill="#5d806f">software, nature, photography, art, design and music</text>
 </svg>
