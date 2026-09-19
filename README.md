@@ -1,6 +1,6 @@
 
 ## About Me
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Animated decoration" />
+<img src="https://web.archive.org/web/20090830123900im_/http://geocities.com/RodeoDrive/9567/btrfly_1.gif" alt="Animated decoration" />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=monamarii.visitor-badge&left_text=visitors&left_color=%23bf9522&right_color=%23dcbdf4)
 
