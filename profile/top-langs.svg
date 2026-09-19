@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #c792ea;
+            fill: #ff6e96;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -132,7 +132,7 @@
           y="0"
           width="184.05"
           height="8"
-          fill="#e34c26"
+          fill="#ce7584"
         />
       
         <rect
@@ -142,7 +142,7 @@
           y="0"
           width="53.29"
           height="8"
-          fill="#3572A5"
+          fill="#a38be6"
         />
       
         <rect
@@ -172,7 +172,7 @@
           y="0"
           width="10.68"
           height="8"
-          fill="#00ADD8"
+          fill="#99c79f"
         />
       
         <rect
@@ -182,21 +182,21 @@
           y="0"
           width="10.6"
           height="8"
-          fill="#083fa1"
+          fill="#a1d5e6"
         />
       
       
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <circle cx="5" cy="6" r="5" fill="#ce7584" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         HTML 73.62%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <circle cx="5" cy="6" r="5" fill="#a38be6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Python 21.32%
       </text>
@@ -217,14 +217,14 @@
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#00ADD8" />
+      <circle cx="5" cy="6" r="5" fill="#99c79f" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Go 0.27%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#083fa1" />
+      <circle cx="5" cy="6" r="5" fill="#a1d5e6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Markdown 0.24%
       </text>

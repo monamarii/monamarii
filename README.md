@@ -9,6 +9,7 @@
 <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://godotengine.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/> </a>
 
 ## Stats
+
 ![](./profile/stats.svg)
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=monamarii&theme=dracula" alt="GitHub Streak" /></a>
@@ -18,7 +19,7 @@
 
 
 <!--
-**cxyfreedom/cxyfreedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**monamarii/monamarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
