@@ -15,7 +15,6 @@
 
 ![](./profile/top-langs.svg)
 
-![](./profile/trophy.svg)
 
 
 <!--
