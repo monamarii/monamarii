@@ -30,7 +30,6 @@ I am a software development student making small, curious things influenced by t
 
 <img src="./profile/stats-heading.svg" alt="Stats" />
 
-![](./profile/stats.svg)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=monamarii&theme=dracula" alt="GitHub Streak" /></a>
 
 ![](./profile/top-langs.svg)
