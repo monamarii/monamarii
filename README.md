@@ -17,14 +17,6 @@
 
 ![](./profile/trophy.svg)
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C021%20hrs%2025%20mins-blue)
-
-
-
-
- Last Updated on 19/09/2026
-<!--END_SECTION:waka-->
 
 <!--
 **cxyfreedom/cxyfreedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
