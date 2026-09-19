@@ -5,8 +5,6 @@
 
 <img src="https://web.archive.org/web/20090830123900im_/http://geocities.com/RodeoDrive/9567/btrfly_1.gif" alt="Animated butterfly" />
 
-</div>
-
 I am a software development student making small, curious things influenced by the natural world and the arts. I like projects that leave room for experimentation, atmosphere and play.
 
 <img src="./profile/currently.svg" alt="Currently" />
@@ -23,13 +21,9 @@ I am a software development student making small, curious things influenced by t
 | Games | Interactive ideas and Godot projects |
 | Visual work | Photography, design and image-making |
 
-<p align="center">
+<p>
 	<a href="https://github.com/monamarii?tab=repositories"><strong>Browse my repositories</strong></a>
 </p>
-
-<a href="https://tamanotchi.world/38484c"><img src="https://tamanotchi.world/i2/38484" alt="It's tamaNOTchi! Click to feed!"></a>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=monamarii.visitor-badge&left_text=visitors&left_color=%23d875a9&right_color=%2377bfa3)
 
 <img src="./profile/tools.svg" alt="Tools" />
 
@@ -43,6 +37,11 @@ I am a software development student making small, curious things influenced by t
 
 ![](./profile/top-langs.svg)
 
+<a href="https://tamanotchi.world/38484c"><img src="https://tamanotchi.world/i2/38484" alt="It's tamaNOTchi! Click to feed!"></a>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=monamarii.visitor-badge&left_text=visitors&left_color=%23d875a9&right_color=%2377bfa3)
+
+</div>
 
 
 <!--
