@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="150" viewBox="0 0 760 150" role="img" aria-labelledby="title desc">
   <title id="title">monamarii</title>
   <desc id="desc">Software, nature, photography, art, design and music</desc>
-  <text x="380" y="72" text-anchor="middle" font-family="Monocraft, monospace" font-size="58" font-weight="600" fill="#d875a9">monamarii</text>
+  <text x="380" y="72" text-anchor="middle" font-family="Monocraft, monospace" font-size="35" font-weight="600" fill="#d875a9">monamarii</text>
   <text x="380" y="132" text-anchor="middle" font-family="Monocraft, monospace" font-size="21" fill="#5d806f">software, nature, photography, art, design and music</text>
 </svg>
