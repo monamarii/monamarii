@@ -1,6 +1,5 @@
 
 <div align="center">
-
 <img src="./profile/header.svg" alt="monamarii - software, nature, photography, art, design and music" />
 
 <img src="https://web.archive.org/web/20090830123900im_/http://geocities.com/RodeoDrive/9567/btrfly_1.gif" alt="Animated butterfly" />
@@ -11,7 +10,7 @@ I am a software development student making small, curious things influenced by t
 
 | Making | Learning | Inspired by |
 | --- | --- | --- |
-| Small software projects and creative experiments | Godot and interactive design | Nature, photography, music and handmade details |
+| Small software projects and creative experiments | Godot and interactive design and game development | Nature, photography, music and art |
 
 <img src="./profile/explore.svg" alt="Explore" />
 
